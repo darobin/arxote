@@ -6,8 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "bin":    {
-      "arxote": "./bin/cli.js"
+  "bin": {
+    "arxote": "./bin/cli.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/darobin/arxote",
   "dependencies": {
-    "evernote": "^1.25.4"
+    "evernote": "^1.25.4",
+    "superagent": "^0.21.0",
+    "whacko": "^0.17.2"
   }
 }
