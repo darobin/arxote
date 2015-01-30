@@ -1,0 +1,23 @@
+{
+  "name": "arxote",
+  "version": "0.0.1",
+  "description": "arXiv to Evernote",
+  "main": "lib/arxote.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/darobin/arxote.git"
+  },
+  "keywords": [
+    "arXiv",
+    "Evernote"
+  ],
+  "author": "Robin Berjon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darobin/arxote/issues"
+  },
+  "homepage": "https://github.com/darobin/arxote"
+}
